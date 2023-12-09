@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goaway/static/css/main.ad16a0f6.css",
+    "main.js": "/goaway/static/js/main.fc4c49b3.js",
+    "index.html": "/goaway/index.html",
+    "main.ad16a0f6.css.map": "/goaway/static/css/main.ad16a0f6.css.map",
+    "main.fc4c49b3.js.map": "/goaway/static/js/main.fc4c49b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad16a0f6.css",
+    "static/js/main.fc4c49b3.js"
+  ]
+}
